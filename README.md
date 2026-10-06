@@ -3,6 +3,7 @@
 ## Objective
 Analyze EV charging demand patterns to identify peak usage hours
 and provide insights for grid stability and energy optimization.
+![EV Charging Dashboard](visuals/EV%20Charging%20Dashboard.png)
 
 ## Tools Used
 - Power BI
